@@ -44,7 +44,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
     //QR Code Library
-    implementation 'me.dm7.barcodescanner:zbar:1.9.13'
+//    implementation 'me.dm7.barcodescanner:zbar:1.9.13'
+//    implementation 'me.dm7.barcodescanner:zxing:1.9'
 
     //Google Material Design
     implementation 'com.google.android.material:material:1.9.0-alpha01'
@@ -76,7 +77,5 @@ dependencies {
     // optional - Paging 3 Integration
     implementation("androidx.room:room-paging:$room_version")
 
-    //Debugging
-    implementation 'com.facebook.stetho:stetho:1.5.1'
 
 }
