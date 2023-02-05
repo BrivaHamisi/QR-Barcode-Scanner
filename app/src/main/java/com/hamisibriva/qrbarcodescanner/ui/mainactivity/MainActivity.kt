@@ -33,5 +33,6 @@ class MainActivity : AppCompatActivity() {
         val adapter = MainPagerAdapter(this)
         viewPager.adapter = adapter
 
+
     }
 }
