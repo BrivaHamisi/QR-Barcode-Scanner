@@ -45,8 +45,7 @@ dependencies {
 
     //QR Code Library
 //    implementation 'me.dm7.barcodescanner:zbar:1.9.13'
-//    implementation 'me.dm7.barcodescanner:zxing:1.9'
-//    implementation 'me.dm7.barcodescanner:zbar:1.9.13'
+
     //Scanner library
     implementation 'com.journeyapps:zxing-android-embedded:4.3.0'
 
